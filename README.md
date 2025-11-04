@@ -39,4 +39,4 @@ _ _ _
 
 - [Divise](https://github.com/MatthewPierson/Divise) for the mobileactivationd
 
--  [Assassin], THANK YOU FOR THE GUI.
+- Assassin, THANK YOU FOR THE GUI.
