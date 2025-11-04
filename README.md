@@ -3,9 +3,9 @@ JUMP SETUP ON DUALBOOTED/DOWNGRADED DEVICES FOR iOS 15/14/13
 
 # Usage
 
-EXAMPLES: ./bypassra1n.sh --tethered 14.3 FOR down1z OR NORMAL iOS
+EXAMPLES: ./bypassn1z.sh --tethered 14.3 FOR down1z OR NORMAL iOS
 
-		 ./bypassr1n.sh --dualboot 14.3 FOR down1z
+		./bypassn1z.sh --dualboot 14.3 FOR down1z
 
 OPTIONS: 
    --dualboot          IF YOU WANT TO BYPASS iCloud IN THE DUIALBOOT USE THIS: ./bypassn1z.sh --dualboot 14.3
